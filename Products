@@ -1,0 +1,74 @@
+{  
+   "Products":[  
+      {  
+         "Name":"Laptop Computer",
+         "Model":"Acer",
+         "ProductID":"PD-001",
+      },
+      {  
+         "Name":"Desktop Computer",
+         "Model":"Dell",
+         "ProductID":"PD-002",
+      },
+      {  
+         "Name":"Smart Phone",
+         "Model":"Redmi",
+         "ProductID":"PD-003",
+      },
+      {  
+         "Name":"Diamond Ring",
+         "Model":"Khanzana",
+         "ProductID":"PD-004",
+      },
+      {  
+         "Name":"Gear Bike",
+         "Model":"Yamaha FZ-25",
+         "ProductID":"PD-005",
+      },
+      {  
+         "Name":"T-Shirt",
+         "Model":"Nike",
+         "ProductID":"PD-006",
+      },
+      {  
+         "Name":"Travel Bag",
+         "Model":"American Tourister",
+         "ProductID":"PD-007",
+      },
+     {  
+         "Name":"Television",
+         "Model":"LG",
+         "ProductID":"PD-008",
+      },
+      {  
+         "Name":"Smart Watch",
+         "Model":"Titan",
+         "ProductID":"PD-009",
+      },
+      {  
+         "Name":"Sneakers",
+         "Model":"VKC",
+         "ProductID":"PD-010",
+      },
+      {  
+         "Name":"Red Ball",
+         "Model":"ES Sports",
+         "ProductID":"PD-011",
+      },
+      {  
+         "Name":"Camcorder",
+         "Model":"GO Digital",
+         "ProductID":"PD-012",
+      },
+      {  
+         "Name":"BS-4 Car",
+         "Model":"BMW",
+         "ProductID":"PD-013",
+      },
+      {  
+         "Name":"Harry Potter Story Book",
+         "Model":"ABC Library",
+         "ProductID":"PD-014",
+      },
+   ]
+}
