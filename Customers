@@ -1,0 +1,82 @@
+{  
+   "Customers":[  
+      {  
+         "Name":"Alan",
+         "Email":"alan@yahoomail.com",
+         "Phone":"9867986700",
+         "Address":"New Jersey, US",
+      },
+      {  
+         "Name":"Johnson",
+         "Email":"johnson@gmail.com",
+         "Phone":"9898787806",
+         "Address":"North Carolina, US",
+      },
+      {  
+         "Name":"Harry",
+         "Email":"harry@gmail.com",
+         "Phone":"9956656431",
+         "Address":"Denver, US",
+      },
+      {  
+         "Name":"Luke",
+         "Email":"luke@microsoft.com",
+         "Phone":"8900986656",
+         "Address":"Arizona, US",
+      },
+      {  
+         "Name":"Michael",
+         "Email":"michael@gmail.com",
+         "Phone":"9008971260",
+         "Address":"Alaska, US",
+      },
+      {  
+         "Name":"Jessica",
+         "Email":"jessica@yahoomail.com",
+         "Phone":"8978096755",
+         "Address":"New York, US",
+      },
+      {  
+         "Name":"Edward",
+         "Email":"edward@gmail.com",
+         "Phone":"7890098712",
+         "Address":"Colarado, US",
+      },
+      {  
+         "Name":"Jack",
+         "Email":"jack@yahoo.com",
+         "Phone":"9898777100",
+         "Address":"South Carolina, US",
+      },
+      {  
+         "Name":"Peter",
+         "Email":"peter@gmail.com",
+         "Phone":"7888123090",
+         "Address":"Washington, US",
+      },
+      {  
+         "Name":"Quade",
+         "Email":"quade@yahoo.com",
+         "Phone":"9812312300",
+         "Address":"New Mexico, US",
+      },
+      {  
+         "Name":"Samuel",
+         "Email":"samuel@hmail.com",
+         "Phone":"7778909001",
+         "Address":"Denver, US",
+      },
+      {  
+         "Name":"Tim",
+         "Email":"tim@gmail.com",
+         "Phone":"9898090991",
+         "Address":"North Dakota, US",
+      },
+      {  
+         "Name":"Clare",
+         "Email":"clare@yahoomail.com",
+         "Phone":"6667879830",
+         "Address":"New York, US",
+      },
+   ]
+}
