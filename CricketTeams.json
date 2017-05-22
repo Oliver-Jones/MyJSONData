@@ -2,61 +2,61 @@
    {  
       "Name":"India",
       "Captain":"MS Dhoni",
-      "Test Ranking":"2",
-      "ODI Ranking":"3"
+      "TestRanking":"2",
+      "ODIRanking":"3"
    },
    {  
       "Name":"South Africa",
       "Captain":"AB De Villiers",
-      "Test Ranking":"1",
-      "ODI Ranking":"4"
+      "TestRanking":"1",
+      "ODIRanking":"4"
    },
    {  
       "Name":"Australia",
       "Captain":"Steven Smith",
-      "Test Ranking":"3",
-      "ODI Ranking":"1"
+      "TestRanking":"3",
+      "ODIRanking":"1"
    },
    {  
       "Name":"Pakistan",
       "Captain":"Misbah ul Haq",
-      "Test Ranking":"8",
-      "ODI Ranking":"7"
+      "TestRanking":"8",
+      "ODIRanking":"7"
    },
    {  
       "Name":"New Zealand",
       "Captain":"Brandon McCullum",
-      "Test Ranking":"4",
-      "ODI Ranking":"2"
+      "TestRanking":"4",
+      "ODIRanking":"2"
    },
    {  
       "Name":"England",
       "Captain":"Joe Root",
-      "Test Ranking":"5",
-      "ODI Ranking":"6"
+      "TestRanking":"5",
+      "ODIRanking":"6"
    },
    {  
       "Name":"West Indies",
       "Captain":"Jason Holder",
-      "Test Ranking":"7",
-      "ODI Ranking":"9"
+      "TestRanking":"7",
+      "ODIRanking":"9"
    },
    {  
       "Name":"Zimbabwe",
       "Captain":"Chigumbura",
-      "Test Ranking":"10",
-      "ODI Ranking":"10"
+      "TestRanking":"10",
+      "ODIRanking":"10"
    },
    {  
       "Name":"Sri Lanka",
       "Captain":"Angelo Matthews",
-      "Test Ranking":"6",
-      "ODI Ranking":"5"
+      "TestRanking":"6",
+      "ODIRanking":"5"
    },
    {  
       "Name":"Bangladesh",
       "Captain":"Mushfiqur",
-      "Test Ranking":"9",
-      "ODI Ranking":"8"
+      "TestRanking":"9",
+      "ODIRanking":"8"
    }
 ]
